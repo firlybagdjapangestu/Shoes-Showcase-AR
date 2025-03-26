@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9166f0d05b6fc694aae214c514008a9a, type: 3}
+  m_Name: Converse old classic
+  m_EditorClassIdentifier: 
+  shoesName: 'Converse old classic  '
+  shoesDescription: Sepatu kanvas dengan desain ikonik, sol karet, dan nyaman dipakai
+    sehari-hari. Cocok untuk gaya kasual dan vintage. Rp200.000 - Rp600.000 (tergantung
+    kondisi & edisi)
+  shoesSprite: {fileID: -569856505, guid: cd865f7eaae4fd04b9eaf6c445517a72, type: 3}
+  shoesSound: {fileID: 8300000, guid: 2e5c7b73ce780d0469a064da6d478615, type: 3}
+  shoesPrefab: {fileID: 919132149155446097, guid: 6db6d3225fffd8d4e81182176b82dc15,
+    type: 3}

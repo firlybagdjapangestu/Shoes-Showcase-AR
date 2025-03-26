@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9166f0d05b6fc694aae214c514008a9a, type: 3}
+  m_Name: Nike Air Jordan
+  m_EditorClassIdentifier: 
+  shoesName: Nike Air Jordan
+  shoesDescription: Sneaker legendaris dengan teknologi bantalan udara, cocok untuk
+    penggemar basket dan streetwear. Pastikan keaslian sebelum membeli.  Rp800.000
+    - Rp3.000.000 (tergantung model & kelangkaan)
+  shoesSprite: {fileID: 1102206578, guid: cd865f7eaae4fd04b9eaf6c445517a72, type: 3}
+  shoesSound: {fileID: 8300000, guid: 81d4899892a86064aaa8d9c5f57de039, type: 3}
+  shoesPrefab: {fileID: 919132149155446097, guid: 8b04b78017993df4988d4928c15a0a4f,
+    type: 3}
