@@ -16,7 +16,8 @@ MonoBehaviour:
   shoesDescription: Sneaker legendaris dengan teknologi bantalan udara, cocok untuk
     penggemar basket dan streetwear. Pastikan keaslian sebelum membeli.  Rp800.000
     - Rp3.000.000 (tergantung model & kelangkaan)
-  shoesSprite: {fileID: 1102206578, guid: cd865f7eaae4fd04b9eaf6c445517a72, type: 3}
-  shoesSound: {fileID: 8300000, guid: 81d4899892a86064aaa8d9c5f57de039, type: 3}
+  shoesSprite: {fileID: 21300000, guid: 56dcd3bfdb60ea34295a4d3a8bcf7468, type: 3}
+  shoesSound: {fileID: 8300000, guid: 94f76a730df38f3489b2bab33000fb1b, type: 3}
   shoesPrefab: {fileID: 919132149155446097, guid: 8b04b78017993df4988d4928c15a0a4f,
     type: 3}
+  shoesMerk: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9166f0d05b6fc694aae214c514008a9a, type: 3}
+  m_Name: "Dr\_martens\_Quad"
+  m_EditorClassIdentifier: 
+  shoesName: "Dr\_martens\_Quad"
+  shoesDescription: Dr. Martens seri Quad adalah varian ikonik 1460 atau 1461 yang
+    ditingkatkan dengan sol platform ganda (chunky) yang sangat tebal, dan harga
+    bekasnya berkisar dari Rp 1.200.000 hingga Rp 3.000.000+ tergantung kondisi dan
+    model spesifik seperti Jadon atau Sinclair.
+  shoesSprite: {fileID: 21300000, guid: ab511e48ee1d68d4bae182d6ad53a520, type: 3}
+  shoesSound: {fileID: 8300000, guid: 94b4cb0a7e8d4144694f310228bdecfb, type: 3}
+  shoesPrefab: {fileID: 919132149155446097, guid: 74641f15738eb0f4bb9ed2d79a904cdc,
+    type: 3}
+  shoesMerk: 0

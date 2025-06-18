@@ -48,7 +48,7 @@ public class ARManager : MonoBehaviour
 
 
     #region
-    public DateTime expiredApp = new DateTime(2025, 4, 30);
+    public DateTime expiredApp = new DateTime(2025, 6, 20);
 
     private IEnumerator GetNetworkTime()
     {

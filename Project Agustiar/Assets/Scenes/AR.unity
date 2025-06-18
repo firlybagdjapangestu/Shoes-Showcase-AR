@@ -323,11 +323,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shoesSO:
+  - {fileID: 11400000, guid: 286912798ac054949b587a61270d685c, type: 2}
   - {fileID: 11400000, guid: 9f99417784b9ee14199bcc9f25ff1255, type: 2}
-  - {fileID: 11400000, guid: d3d5c6f843574b64e9daf473b7d546d2, type: 2}
+  - {fileID: 11400000, guid: e8dfb8546dfa621478141e583a508d3f, type: 2}
   - {fileID: 11400000, guid: 16187473779615845ad8b684fb0371a3, type: 2}
-  - {fileID: 11400000, guid: 0a188293fbccd0d418b55434d8dba08d, type: 2}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 690a7caa1a3229b4b81520bde7250b6f, type: 2}
+  - {fileID: 11400000, guid: e741016759d093c4ea980769c41858b6, type: 2}
+  - {fileID: 11400000, guid: d3d5c6f843574b64e9daf473b7d546d2, type: 2}
+  - {fileID: 11400000, guid: cb76f547462ab1847a21331bc7ac73eb, type: 2}
+  - {fileID: 11400000, guid: c35cbd9c9de852548b5ea0d582150f62, type: 2}
   shoesName: {fileID: 1529189541}
   shoesDescription: {fileID: 508381902}
 --- !u!114 &151853166 stripped

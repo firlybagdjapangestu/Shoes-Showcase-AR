@@ -17,6 +17,7 @@ MonoBehaviour:
     awet dan cocok untuk gaya formal maupun edgy. Rp800.000 - Rp2.000.000 (harga
     tinggi jika ori & kondisi bagus)
   shoesSprite: {fileID: 815178187, guid: cd865f7eaae4fd04b9eaf6c445517a72, type: 3}
-  shoesSound: {fileID: 8300000, guid: 73a8a4506500d6345a9376dd6bac4352, type: 3}
+  shoesSound: {fileID: 8300000, guid: 94b4cb0a7e8d4144694f310228bdecfb, type: 3}
   shoesPrefab: {fileID: 919132149155446097, guid: 9787cbcebb1bf9e46bffaf6551ef11da,
     type: 3}
+  shoesMerk: 0

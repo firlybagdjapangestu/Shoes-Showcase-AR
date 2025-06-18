@@ -1,0 +1,28 @@
+# ninja log v5
+29	2217	7658703147963644	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	8e2fc508af2d5462
+6	2220	7658703148165073	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	81a45449b47f57b3
+40	2232	7658703148366605	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	53e9e3eee5b564c0
+23	2464	7658703150024819	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ab10ac11eb183787
+34	2552	7658703151579562	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	72590883904aea7a
+18	2668	7658703152907456	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6d754ab7c10101de
+1	2705	7658703153048451	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9880d80fb4a3a5ef
+13	3119	7658703157693862	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3c94ec0c92f6b14b
+3120	3270	7658703159336200	C:/Users/firly/OneDrive/Documents/GitHub/Untiy Project/Shoes-Showcase-AR/Project Agustiar/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6z6k1v72/obj/arm64-v8a/libgame.so	36281519847fe113
+33	2470	7692766808914509	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	81a45449b47f57b3
+134	2494	7692766809166018	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	53e9e3eee5b564c0
+122	2507	7692766809352001	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ab10ac11eb183787
+49	2515	7692766809160911	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	8e2fc508af2d5462
+139	2530	7692766809658397	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	72590883904aea7a
+12	2588	7692766810296898	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9880d80fb4a3a5ef
+129	2752	7692766811936242	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6d754ab7c10101de
+21	2886	7692766813288893	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3c94ec0c92f6b14b
+2886	3267	7692766817112978	C:/Users/firly/OneDrive/Documents/GitHub/Untiy Project/Shoes-Showcase-AR/Project Agustiar/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6z6k1v72/obj/arm64-v8a/libgame.so	36281519847fe113
+14	1294	7719382455795667	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	81a45449b47f57b3
+41	1295	7719382456036882	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	8e2fc508af2d5462
+35	1314	7719382456485128	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ab10ac11eb183787
+54	1327	7719382456751924	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	53e9e3eee5b564c0
+64	1351	7719382457003771	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	72590883904aea7a
+5	1453	7719382458044667	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9880d80fb4a3a5ef
+47	1551	7719382459046957	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6d754ab7c10101de
+27	1674	7719382460244343	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3c94ec0c92f6b14b
+1674	1934	7719382462888516	C:/Users/firly/OneDrive/Documents/GitHub/Untiy Project/Shoes-Showcase-AR/Project Agustiar/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6z6k1v72/obj/arm64-v8a/libgame.so	36281519847fe113

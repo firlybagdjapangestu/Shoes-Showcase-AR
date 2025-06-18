@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9166f0d05b6fc694aae214c514008a9a, type: 3}
+  m_Name: Converse Pro Blaze Strap Hi
+  m_EditorClassIdentifier: 
+  shoesName: Converse Pro Blaze Strap Hi
+  shoesDescription: Ciri khasnya adalah desain high-top, warna biru, logo bintang
+    dan chevron di samping, serta strap Velcro dengan tulisan "CONVERSE" di bagian
+    atas. Kisaran Rp 50.000 - Rp 300.000+
+  shoesSprite: {fileID: 21300000, guid: 9bb37bf0c61a42c47b4b373bae73016c, type: 3}
+  shoesSound: {fileID: 8300000, guid: d9476235c61fb134899f9696f540f311, type: 3}
+  shoesPrefab: {fileID: 919132149155446097, guid: ac4719f8341e0704eab37cc71c08b163,
+    type: 3}
+  shoesMerk: 2

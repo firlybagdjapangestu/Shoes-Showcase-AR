@@ -16,7 +16,8 @@ MonoBehaviour:
   shoesDescription: Sepatu skate dengan garis samping khas, sol waffle grip, dan
     desain simpel yang mudah dipadukan dengan berbagai outfit. Rp300.000 - Rp800.000
     (bisa lebih mahal untuk edisi tertentu)
-  shoesSprite: {fileID: 401255570, guid: cd865f7eaae4fd04b9eaf6c445517a72, type: 3}
-  shoesSound: {fileID: 8300000, guid: 5b609ca5dad044649998dc1a1e4b3e14, type: 3}
+  shoesSprite: {fileID: 21300000, guid: 9864172225f378b4595ba70baa9135df, type: 3}
+  shoesSound: {fileID: 8300000, guid: 0ee37e7a267394644ba2fae098941766, type: 3}
   shoesPrefab: {fileID: 919132149155446097, guid: b3c201c9fb1edc44ca438ddb563c0bae,
     type: 3}
+  shoesMerk: 1

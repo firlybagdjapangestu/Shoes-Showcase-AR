@@ -16,7 +16,8 @@ MonoBehaviour:
   shoesDescription: Sepatu kanvas dengan desain ikonik, sol karet, dan nyaman dipakai
     sehari-hari. Cocok untuk gaya kasual dan vintage. Rp200.000 - Rp600.000 (tergantung
     kondisi & edisi)
-  shoesSprite: {fileID: -569856505, guid: cd865f7eaae4fd04b9eaf6c445517a72, type: 3}
-  shoesSound: {fileID: 8300000, guid: 2e5c7b73ce780d0469a064da6d478615, type: 3}
+  shoesSprite: {fileID: 21300000, guid: a6d158fa44c14a8499d9d4c7db9e914b, type: 3}
+  shoesSound: {fileID: 8300000, guid: d9476235c61fb134899f9696f540f311, type: 3}
   shoesPrefab: {fileID: 919132149155446097, guid: 6db6d3225fffd8d4e81182176b82dc15,
     type: 3}
+  shoesMerk: 2
