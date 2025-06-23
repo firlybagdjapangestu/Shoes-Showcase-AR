@@ -13,11 +13,16 @@ MonoBehaviour:
   m_Name: Converse Pro Blaze Strap Hi
   m_EditorClassIdentifier: 
   shoesName: Converse Pro Blaze Strap Hi
-  shoesDescription: Ciri khasnya adalah desain high-top, warna biru, logo bintang
-    dan chevron di samping, serta strap Velcro dengan tulisan "CONVERSE" di bagian
-    atas. Kisaran Rp 50.000 - Rp 300.000+
+  shoesDescription: 'Converse Pro Blaze Strap Hi: Model ini lebih jarang dijumpai
+    di pasar thrift dibandingkan Chuck Taylor. Harga thrift-nya bisa berkisar antara
+    Rp 200.000 - Rp 500.000, tergantung kelangkaan dan kondisi.'
+  minPrice: 200
+  maxPrice: 500
   shoesSprite: {fileID: 21300000, guid: 9bb37bf0c61a42c47b4b373bae73016c, type: 3}
   shoesSound: {fileID: 8300000, guid: d9476235c61fb134899f9696f540f311, type: 3}
   shoesPrefab: {fileID: 919132149155446097, guid: ac4719f8341e0704eab37cc71c08b163,
     type: 3}
+  showCase:
+  - {fileID: 21300000, guid: 0b7d7b8403aaeb944a81da5756f7d077, type: 3}
+  - {fileID: 21300000, guid: 374ea5b496ec6f64aae07452f263f5a8, type: 3}
   shoesMerk: 2

@@ -13,11 +13,16 @@ MonoBehaviour:
   m_Name: Converse old classic
   m_EditorClassIdentifier: 
   shoesName: 'Converse old classic  '
-  shoesDescription: Sepatu kanvas dengan desain ikonik, sol karet, dan nyaman dipakai
-    sehari-hari. Cocok untuk gaya kasual dan vintage. Rp200.000 - Rp600.000 (tergantung
-    kondisi & edisi)
+  shoesDescription: 'Converse Old Classic: Ini kemungkinan merujuk pada Converse
+    Chuck Taylor All-Star atau model klasik lainnya. Rentang harganya serupa dengan
+    Chuck Taylor All-Star, yaitu sekitar Rp 100.000 - Rp 400.000.'
+  minPrice: 100
+  maxPrice: 400
   shoesSprite: {fileID: 21300000, guid: a6d158fa44c14a8499d9d4c7db9e914b, type: 3}
   shoesSound: {fileID: 8300000, guid: d9476235c61fb134899f9696f540f311, type: 3}
   shoesPrefab: {fileID: 919132149155446097, guid: 6db6d3225fffd8d4e81182176b82dc15,
     type: 3}
+  showCase:
+  - {fileID: 21300000, guid: 421dfb29b4b48534c85f02cd104b6252, type: 3}
+  - {fileID: 21300000, guid: af326e7af14323c40908ea49985c05b8, type: 3}
   shoesMerk: 2

@@ -13,11 +13,15 @@ MonoBehaviour:
   m_Name: "Dr\_martens\_1461"
   m_EditorClassIdentifier: 
   shoesName: "Dr\_martens\_1461"
-  shoesDescription: Sepatu kulit klasik dengan sol tebal dan jahitan kuning khas,
-    awet dan cocok untuk gaya formal maupun edgy. Rp800.000 - Rp2.000.000 (harga
-    tinggi jika ori & kondisi bagus)
+  shoesDescription: 'Dr. Martens 1461: Serupa dengan 1460, model 1461 (low-cut) juga
+    cukup dicari. Harga thrift-nya berkisar antara Rp 300.000 - Rp 1.000.000.'
+  minPrice: 300
+  maxPrice: 1000
   shoesSprite: {fileID: 815178187, guid: cd865f7eaae4fd04b9eaf6c445517a72, type: 3}
   shoesSound: {fileID: 8300000, guid: 94b4cb0a7e8d4144694f310228bdecfb, type: 3}
   shoesPrefab: {fileID: 919132149155446097, guid: 9787cbcebb1bf9e46bffaf6551ef11da,
     type: 3}
+  showCase:
+  - {fileID: 21300000, guid: fc0ae6c43d99f5d45b32f5b2ca300dce, type: 3}
+  - {fileID: 21300000, guid: 984b18cdf20a3854f8329f6d2f35b138, type: 3}
   shoesMerk: 0

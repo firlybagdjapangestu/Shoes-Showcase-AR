@@ -13,11 +13,18 @@ MonoBehaviour:
   m_Name: Nike Air Jordan
   m_EditorClassIdentifier: 
   shoesName: Nike Air Jordan
-  shoesDescription: Sneaker legendaris dengan teknologi bantalan udara, cocok untuk
-    penggemar basket dan streetwear. Pastikan keaslian sebelum membeli.  Rp800.000
-    - Rp3.000.000 (tergantung model & kelangkaan)
+  shoesDescription: 'Nike Air Jordan: Harga Air Jordan thrift sangat bervariasi.
+    Model-model yang sangat hype atau kolaborasi bisa mencapai jutaan rupiah (misalnya
+    Travis Scott Air Jordan, bahkan bekasnya bisa puluhan juta). Namun, untuk model
+    Air Jordan yang lebih umum, harga thrift bisa berkisar antara Rp 200.000 - Rp
+    800.000.'
+  minPrice: 200
+  maxPrice: 800
   shoesSprite: {fileID: 21300000, guid: 56dcd3bfdb60ea34295a4d3a8bcf7468, type: 3}
   shoesSound: {fileID: 8300000, guid: 94f76a730df38f3489b2bab33000fb1b, type: 3}
   shoesPrefab: {fileID: 919132149155446097, guid: 8b04b78017993df4988d4928c15a0a4f,
     type: 3}
+  showCase:
+  - {fileID: 21300000, guid: fddb16ab60affe04a8a0c52caf5550d2, type: 3}
+  - {fileID: 21300000, guid: bb6100e44a11d654b904c1373f32f7bd, type: 3}
   shoesMerk: 0

@@ -13,11 +13,16 @@ MonoBehaviour:
   m_Name: Nike Air Zoom Pegasus 25
   m_EditorClassIdentifier: 
   shoesName: Nike Air Zoom Pegasus 25
-  shoesDescription: Nike Air Zoom Pegasus 25 adalah sepatu lari populer dari seri
-    Pegasus yang dikenal stabil dan nyaman, sering jadi pilihan sehari-hari. Rp150.000
-    hingga Rp800.000
+  shoesDescription: 'Nike Air Zoom Pegasus 25: Model ini adalah sepatu lari dan mungkin
+    kurang populer di pasar thrift dibandingkan model lifestyle. Harga thrift-nya
+    kemungkinan lebih terjangkau, sekitar Rp 150.000 - Rp 400.000.'
+  minPrice: 150
+  maxPrice: 400
   shoesSprite: {fileID: 21300000, guid: d4cc68063d4ffe14da92d2d9680c0704, type: 3}
   shoesSound: {fileID: 8300000, guid: 94f76a730df38f3489b2bab33000fb1b, type: 3}
   shoesPrefab: {fileID: 919132149155446097, guid: b4b9cc13f78d9e742ae76e9d25683fde,
     type: 3}
+  showCase:
+  - {fileID: 21300000, guid: c97d2e88e267d5546979630177f1429f, type: 3}
+  - {fileID: 21300000, guid: 9882525ded1ceb94a88acdb7c1673ff6, type: 3}
   shoesMerk: 0

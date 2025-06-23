@@ -13,11 +13,17 @@ MonoBehaviour:
   m_Name: Dr martens 1460
   m_EditorClassIdentifier: 
   shoesName: Dr Martens 1460
-  shoesDescription: Dr. Martens 1460 adalah boot klasik 8 lubang tali dengan sol
-    bantalan udara ikonik dan jahitan kuning khas, dengan harga bekasnya berkisar
-    dari Rp 500.000 hingga Rp 2.500.000+ tergantung kondisi dan varian.
+  shoesDescription: 'Dr. Martens 1460: Sepatu Dr. Martens dikenal memiliki harga
+    baru yang tinggi, jadi harga thrift-nya juga cenderung lebih tinggi. Untuk model
+    1460, harga thrift bisa mulai dari Rp 400.000 - Rp 1.500.000 (bahkan lebih untuk
+    kondisi sangat baik atau edisi khusus).'
+  minPrice: 400
+  maxPrice: 1500
   shoesSprite: {fileID: 21300000, guid: 6eea7a87569a3444eab3f6c0a3d1f0b1, type: 3}
   shoesSound: {fileID: 8300000, guid: 94b4cb0a7e8d4144694f310228bdecfb, type: 3}
   shoesPrefab: {fileID: 919132149155446097, guid: 41061dd641ead5e4dab92d9310352b26,
     type: 3}
+  showCase:
+  - {fileID: 21300000, guid: 6dc9a003bd614214486ae1e98241342a, type: 3}
+  - {fileID: 21300000, guid: 4dc4f054b71491f438123e014a5a7779, type: 3}
   shoesMerk: 1

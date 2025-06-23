@@ -13,11 +13,16 @@ MonoBehaviour:
   m_Name: Vans old skool blue
   m_EditorClassIdentifier: 
   shoesName: Vans old skool Blue
-  shoesDescription: Sepatu skate dengan garis samping khas, sol waffle grip, dan
-    desain simpel yang mudah dipadukan dengan berbagai outfit. Rp300.000 - Rp800.000
-    (bisa lebih mahal untuk edisi tertentu)
+  shoesDescription: 'Vans Old Skool Blue: Sama seperti warna hijau, harga thrift
+    untuk Vans Old Skool warna biru akan berada di rentang yang serupa: Rp 150.000
+    - Rp 400.000.'
+  minPrice: 150
+  maxPrice: 400
   shoesSprite: {fileID: 21300000, guid: e846125263a8d2a49a7fc8bbdc61a4e5, type: 3}
   shoesSound: {fileID: 8300000, guid: 0ee37e7a267394644ba2fae098941766, type: 3}
   shoesPrefab: {fileID: 919132149155446097, guid: 75afa03f0facabb4683de53d42225be5,
     type: 3}
+  showCase:
+  - {fileID: 21300000, guid: 6ff3e59f79b6ce84ca855b62f5bba502, type: 3}
+  - {fileID: 21300000, guid: f408c999e3be6c8458cf53d2b1cc702c, type: 3}
   shoesMerk: 1

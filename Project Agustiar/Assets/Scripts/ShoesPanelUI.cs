@@ -6,6 +6,7 @@ public class ShoesPanelUI : MonoBehaviour
 {
     [SerializeField] private ShoesSO shoesSO;
     [SerializeField] private TextMeshProUGUI shoesName;
+    [SerializeField] private TextMeshProUGUI shoesPrice;
     [SerializeField] private Image shoesImage;
     [SerializeField] private AudioClip shoesSound;
     [SerializeField] private Button shoesSoundButton;
@@ -16,7 +17,9 @@ public class ShoesPanelUI : MonoBehaviour
     {
         shoesName.text = shoesSO.shoesName;
         shoesImage.sprite = shoesSO.shoesSprite;
+        shoesPrice.text = $"{shoesSO.minPrice}k - {shoesSO.maxPrice}k";
         shoesSound = shoesSO.shoesSound;
+
         shoesSoundButton.onClick.AddListener(PlaySound);
     }
 

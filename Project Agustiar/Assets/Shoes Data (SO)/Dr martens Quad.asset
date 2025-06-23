@@ -13,12 +13,17 @@ MonoBehaviour:
   m_Name: "Dr\_martens\_Quad"
   m_EditorClassIdentifier: 
   shoesName: "Dr\_martens\_Quad"
-  shoesDescription: Dr. Martens seri Quad adalah varian ikonik 1460 atau 1461 yang
-    ditingkatkan dengan sol platform ganda (chunky) yang sangat tebal, dan harga
-    bekasnya berkisar dari Rp 1.200.000 hingga Rp 3.000.000+ tergantung kondisi dan
-    model spesifik seperti Jadon atau Sinclair.
+  shoesDescription: 'Dr. Martens Quad: Model Quad memiliki sol platform yang lebih
+    tebal. Ini termasuk model yang lebih modern dan dicari, sehingga harga thrift-nya
+    bisa lebih tinggi, berkisar antara Rp 500.000 - Rp 1.500.000, bahkan bisa lebih
+    tinggi jika kondisinya sangat baik.'
+  minPrice: 500
+  maxPrice: 1500
   shoesSprite: {fileID: 21300000, guid: ab511e48ee1d68d4bae182d6ad53a520, type: 3}
   shoesSound: {fileID: 8300000, guid: 94b4cb0a7e8d4144694f310228bdecfb, type: 3}
   shoesPrefab: {fileID: 919132149155446097, guid: 74641f15738eb0f4bb9ed2d79a904cdc,
     type: 3}
+  showCase:
+  - {fileID: 21300000, guid: 1d475541bd8239848b61f608cade8260, type: 3}
+  - {fileID: 21300000, guid: 6d2855cae5e0bca4580cae96be87ba0a, type: 3}
   shoesMerk: 0

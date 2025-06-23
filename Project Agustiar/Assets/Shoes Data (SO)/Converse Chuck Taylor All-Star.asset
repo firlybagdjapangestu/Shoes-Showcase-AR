@@ -13,11 +13,16 @@ MonoBehaviour:
   m_Name: Converse Chuck Taylor All-Star
   m_EditorClassIdentifier: 
   shoesName: Converse Chuck Taylor All-Star
-  shoesDescription: sepatu kets klasik dengan bentuk sederhana (low-top atau high-top),
-    berkanvas, memiliki toecap dan sol karet tebal yang khas, serta patch logo bintang
-    di sisi dalam untuk model high-top.
+  shoesDescription: 'Converse Chuck Taylor All-Star: Rp 100.000 - Rp 450.000 (tergantung
+    kondisi dan apakah itu seri 70s atau reguler). Converse 70s thrift bisa lebih
+    mahal.'
+  minPrice: 100
+  maxPrice: 450
   shoesSprite: {fileID: 21300000, guid: a9cc79b220e56a945a989bf205d4a612, type: 3}
   shoesSound: {fileID: 8300000, guid: d9476235c61fb134899f9696f540f311, type: 3}
   shoesPrefab: {fileID: 919132149155446097, guid: c78e1c77b405c5e4d85db498464be698,
     type: 3}
+  showCase:
+  - {fileID: 21300000, guid: 764ac0621795ef04e8f0f0de682c7f44, type: 3}
+  - {fileID: 21300000, guid: 095a4d2968a55334a95816d0294dc9da, type: 3}
   shoesMerk: 2
