@@ -335,6 +335,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: d3d5c6f843574b64e9daf473b7d546d2, type: 2}
   - {fileID: 11400000, guid: cb76f547462ab1847a21331bc7ac73eb, type: 2}
   - {fileID: 11400000, guid: c35cbd9c9de852548b5ea0d582150f62, type: 2}
+  - {fileID: 11400000, guid: 3ce6fa2cacd7e074885c3c5faa5cf3f3, type: 2}
+  - {fileID: 11400000, guid: 0a188293fbccd0d418b55434d8dba08d, type: 2}
+  - {fileID: 11400000, guid: 4053f4aff977cee4384a95b867c2b61e, type: 2}
   shoesName: {fileID: 1529189541}
   shoesDescription: {fileID: 508381902}
   showCase:
